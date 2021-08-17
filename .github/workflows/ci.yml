@@ -3,7 +3,7 @@ name: ci
 on:
   push:
     branches:
-      - "main"
+      - "development"
   schedule:
     - cron: "0 0 * * *"
 
